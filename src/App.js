@@ -8,7 +8,7 @@ function Square({}){
   }
   return (
   <button 
-    className ="sauare"
+    className ="square"
     onClick = {handleClick}
   >
     {value}
