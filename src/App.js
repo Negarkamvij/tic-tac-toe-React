@@ -12,7 +12,6 @@ function Square({}){
     onClick = {handleClick}
   >
     {value}
-
   </button>
 
   );
